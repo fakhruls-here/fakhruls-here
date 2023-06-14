@@ -20,7 +20,7 @@
 - 💻 I’m currently working at @GM Telecom Enterprise
 - 🔭 I'm looking for help sharing my knowledge with others 
 - 😎 Pronouns: Fakhrul, Fs-here, Miraj.
-- ⚡ Pleasure fact: I read the holy quran, Tech read the informational book with others.
+- ⚡ Peaceful fact: I read the Holy Quran, Getharing Technologeis Knowledge for Real world problem solving and read the informational Book with others.
 
 <br>
 📫 Stay With Me:
