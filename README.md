@@ -35,8 +35,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhruls-here)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- this part of unexceptional
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhruls-here&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fakhruls-here)  
 
 ![Profile views](https://gpvc.arturio.dev/fakhruls-here)  
+-->
