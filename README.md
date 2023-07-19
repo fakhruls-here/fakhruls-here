@@ -14,7 +14,7 @@
 
 <br>
 
-### I'm Fakhrul Islam a passionate Frontend Web Developer | Responsive Web Designer | SEO Consultant | Focused on Helping Technology companies & small businesses grow faster🚀. I Spend most of the time coding outstanding projects, problem solving or learn new technology.
+### I'm a passionate Frontend Web Developer | Responsive Web Designer | SEO Consultant | Focused on Helping Technology companies & small businesses grow faster🚀. I Spend most of the time coding outstanding projects, problem solving or learn new technology.
 
 <br><br>
 - 💻 I’m currently working at @GM Telecom Enterprise
